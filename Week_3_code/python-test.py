@@ -8,6 +8,7 @@ def say_hello():
     import diamond
     import finlayson
     import garache
+    import bangay
 
 def main():
     print("Welcome to our collaborative program.")

@@ -1,2 +1,4 @@
-def phil_greetings():
+def greetings():
     print("Hello from Pierre Phil Bangay")
+
+greetings()
