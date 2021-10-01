@@ -12,3 +12,4 @@ Andrew Finlayson : Hey team i am from Dallas Texas and i am loving this class i 
 
 Ryder Garahe: I am from Managua, Nicaragua. I love programing and having new challenges. This is a great oportunity to grow and do what I love. In my free time I like to travel and play the piano. I feel so happy for knowing people around the world......
 
+Alirio Mieres: I am from Venezuela, I am 22 years old and I have the goal of obtaining my Bachelor's degree in applied technology. I have been married for a year and am expecting my first baby. I like to work and learn a lot. I really like video games and watching movies.
