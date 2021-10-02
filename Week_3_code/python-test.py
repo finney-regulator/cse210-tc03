@@ -9,6 +9,7 @@ def say_hello():
     import finlayson
     import garache
     import mieres
+    import bangay
 
 def main():
     print("Welcome to our collaborative program.")
